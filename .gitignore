@@ -1,1 +1,2 @@
-eroor.log
+*.log
+db/
